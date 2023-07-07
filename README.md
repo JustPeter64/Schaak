@@ -5,4 +5,4 @@ De enige echte klassieker
 
 
 ## Made with
-#### [.NET MVC 7.0](https://dotnet.microsoft.com/apps/aspnet/mvc)
+* [Dotnet aspnetcore](https://dotnet.microsoft.com/apps/aspnet)
